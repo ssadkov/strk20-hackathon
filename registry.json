@@ -682,7 +682,7 @@
     "one_liner": "Send private USDC to any Ethereum wallet: the recipient collects with MetaMask alone - no Starknet wallet, no STRK, no gas. Creators can also publish one reusable donation QR. Live on Starknet mainnet.",
     "category": "Payments",
     "x_handle": "ssadkov",
-    "inspired_by": "RFP-12"
+    "inspired_by": "RFP-09"
   },
   {
     "repo_url": "https://github.com/BlackAporia/game-shield",
