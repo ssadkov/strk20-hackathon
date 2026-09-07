@@ -679,7 +679,7 @@
       "ssadkov"
     ],
     "name": "MorokPay",
-    "one_liner": "Private USDC donations for creators: one reusable QR, the supporter picks the amount, and the payment stays inside the STRK20 pool. Live on mainnet with Ready; a Sepolia beta opens the same flow to MetaMask-only users.",
+    "one_liner": "Send private USDC to any Ethereum wallet: the recipient collects with MetaMask alone - no Starknet wallet, no STRK, no gas. Creators can also publish one reusable donation QR. Live on Starknet mainnet.",
     "category": "Payments",
     "x_handle": "ssadkov",
     "inspired_by": "RFP-12"
